@@ -2,13 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="170.3511mm"
-   height="148.79646mm"
-   viewBox="0 0 170.3511 148.79646"
+   width="134.77995mm"
+   height="124.02206mm"
+   viewBox="0 0 134.77995 124.02205"
    version="1.1"
    id="svg3483"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    sodipodi:docname="cat.svg"
+   inkscape:export-filename="cat.png"
+   inkscape:export-xdpi="1228.8137"
+   inkscape:export-ydpi="1228.8137"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -38,24 +41,24 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-nodes="true"
-     inkscape:zoom="0.5"
-     inkscape:cx="204"
-     inkscape:cy="243"
-     inkscape:window-width="1147"
-     inkscape:window-height="755"
-     inkscape:window-x="1989"
-     inkscape:window-y="51"
-     inkscape:window-maximized="0"
+     inkscape:zoom="0.72949389"
+     inkscape:cx="128.17105"
+     inkscape:cy="205.62201"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
      inkscape:showpageshadow="0"
      inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
-       position="23.987237,100.82199"
+       position="3.9109328,110.44973"
        orientation="0,-1"
        id="guide54081"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="23.987235,100.82199"
+       position="3.9109308,110.44973"
        orientation="1,0"
        id="guide54083"
        inkscape:locked="false" />
@@ -168,7 +171,7 @@
      inkscape:label="Pic"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-22.167734,-88.294067)"
+     transform="translate(-42.244038,-97.921808)"
      style="display:none"
      sodipodi:insensitive="true">
     <image
@@ -193,7 +196,8 @@
      id="layer3"
      inkscape:label="body under"
      style="display:inline"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     transform="translate(-20.076304,-9.627741)">
     <path
        style="fill:#7f5621;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 38.030787,40.294888 c 1.615114,-2.23982 -0.820935,-5.825752 0.275363,-6.731114 0,0 3.037239,4.50369 5.38489,6.486345 2.055977,1.736328 -5.342242,5.445864 -7.251245,3.549134 -0.867206,-0.861631 0.87598,-2.312795 1.590992,-3.304365 z"
@@ -214,7 +218,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Body"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-20.076304,-9.627741)">
     <path
        style="display:inline;fill:#cc8c3b;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 46.154971,136.26854 c 1.25356,-0.59236 1.803616,-0.95848 2.692446,-1.59099 1.155161,-0.82203 1.316811,-0.76905 1.713373,-1.71337 0.654563,-1.55868 0.88623,-2.096 2.447678,-2.81483 1.960279,-0.90244 4.516118,-2.56074 5.84383,-2.81482 4.072397,-0.79719 4.606467,-0.24709 4.803565,-0.97908 1.385924,-5.14707 2.185715,-7.63226 4.405821,-3.30436 0.761263,1.48401 1.134583,2.93884 1.713373,4.16105 0.57879,1.22221 1.18138,2.70823 1.713375,3.18198 5.960548,5.30799 7.301223,8.71635 10.035476,11.62646 3.515532,3.74163 6.119194,3.18199 6.119194,3.18199 -0.244769,1.34622 -0.678721,0.23252 -0.244769,1.34622 0.193879,0.49757 1.835759,0 1.835759,0 0.918065,3.56923 5.520253,2.05111 8.444486,1.83575 11.561762,-0.85149 42.951192,-1.10561 53.114602,-0.7343 11.4284,0.41752 9.56375,-4.73614 11.77854,-10.90702 2.76033,-7.69085 4.2946,-31.53166 -6.63842,-34.13024 -3.13566,-0.74529 -3.30028,-5.158496 2.69244,-4.650588 15.70533,1.331092 14.40452,24.973198 14.31892,27.169218 -0.44062,11.30405 -3.0945,18.6369 -5.75205,24.96631 -2.45883,5.85611 -1.49441,6.82988 0.36716,10.40263 6.78037,13.01296 -2.63266,11.19799 4.89535,31.69742 2.22944,6.07097 3.45063,3.70729 4.21175,5.99066 0.76112,2.28337 0.11229,3.82307 -0.17308,7.10441 -0.28537,3.28134 -1.23406,8.03289 -2.08053,11.87124 -0.63758,2.89115 -1.63773,4.28284 -4.03867,4.03866 -1.83992,-0.18713 -2.55186,0.21879 -5.01774,-0.21417 -1.39722,-0.24533 -1.50533,-1.92495 -1.10145,-3.09019 1.43048,-4.12704 2.87258,-1.42085 3.18198,-2.44768 1.50688,-5.001 2.45796,-8.69178 1.92755,-9.36236 -1.90124,-2.40365 -1.0353,-2.49591 -2.66185,-3.36556 -22.95583,-12.27351 -15.07082,-14.84504 -22.21267,-18.174 -7.14185,-3.32896 -9.55807,-3.42847 -19.15308,-1.89695 -9.46137,1.51019 -34.455123,2.65373 -35.980855,3.91628 -2.940289,2.43311 -9.683863,20.39166 -12.966539,26.09491 -3.282676,5.70325 -3.340493,9.59521 -8.225813,9.25303 -4.262211,-0.29853 -0.691711,0.0813 -5.275861,0.021 -2.367303,-0.0311 -3.417426,-2.45443 -1.680075,-3.8149 3.879879,-3.0382 3.500736,-0.29375 5.140121,-1.32523 1.639367,-1.03145 1.816327,-0.32318 3.7939,-5.14012 1.977573,-4.81694 4.685894,-14.67711 3.549134,-24.59915 -1.13676,-9.92204 -7.701217,-22.90553 -10.13177,-29.21495 -2.430553,-6.30942 -3.090745,-6.9524 -4.554295,-8.60167 -3.256072,-3.66925 -4.919856,-3.59907 -7.098263,-3.0596 -2.745071,0.67981 -3.368626,-0.75005 -4.528204,-1.95814 -1.159578,-1.20809 -1.712567,-3.38608 -1.835758,-4.77297 -0.123191,-1.38689 -0.641641,-2.58962 0.611919,-3.18198 z"
@@ -226,7 +231,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Body 1"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-20.076304,-9.627741)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 31.283653,44.350961 c 1.441399,-0.123458 2.358173,1.060095 2.358173,1.060095 0,0 -1.358857,1.730771 -2.72596,2.271636"
@@ -303,5 +309,6 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="Body 2" />
+     inkscape:label="Body 2"
+     transform="translate(-20.076304,-9.627741)" />
 </svg>
