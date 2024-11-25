@@ -29,7 +29,7 @@ A selection of available iconography is shown below. Explore the Repo for additi
 
 ## Diagrams
 
-<img src="./diagrams/flourescent_claustrum_recording_red.svg" height="150" /> <img src="./diagrams/CRACM.svg" height="150" /> <img src="./diagrams/whole_cell_patch_clamp.svg" height="150" />  <img src="./diagrams/mouse_head_with_brain.svg" height="150" />
+<img src="./diagrams/patch2024/flourescent_claustrum_recording_red.svg" height="150" /> <img src="./diagrams/CRACM.svg" height="150" /> <img src="./diagrams/patch2024/whole_cell_patch_clamp.svg" height="150" />  <img src="./diagrams/mouse_head_with_brain.svg" height="150" />
 
 <img src="./diagrams/networks/network_naive.svg" height="300" /> <img src="./diagrams/networks/network_learned.svg" height="300" />
 
