@@ -16,7 +16,7 @@ A selection of available iconography is shown below. Explore the repo for additi
 
 <img src="./icons/animals/mice/mouse_sleeping.svg" height="100" /> <img src="./icons/animals/mice/mouse_side.svg"  height="100"/> <img src="./icons/animals/mice/mouse_rearing.svg"  height="100"/>
 
-<img src="./icons/animals/cat.svg" height="100" /> <img src="./icons/animals/human.svg" height="100" /> <img src="./icons/animals/monkey.svg" height="100" />
+<img src="./icons/animals/human.svg" height="100" /> <img src="./icons/animals/cat.svg" height="100" /> <img src="./icons/animals/monkey.svg" height="100" />
 
 ## Brains
 
