@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 535 642" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:10;">
+    <g transform="matrix(1,0,0,1,-328.161,-270.919)">
+        <g>
+            <g transform="matrix(6.12323e-17,-1,1,6.12323e-17,-108.956,1481.05)">
+                <text x="692.573px" y="461.385px" style="font-family:'ArialMT', 'Arial';font-size:33.333px;">Cortico-clausto-cortical</text>
+                <g transform="matrix(33.3333,0,0,33.3333,961.127,495.809)">
+                </g>
+                <text x="762.999px" y="495.809px" style="font-family:'ArialMT', 'Arial';font-size:33.333px;">(CCC) Circuit</text>
+            </g>
+            <g transform="matrix(6.12323e-17,1,-1,6.12323e-17,1192.32,-203.064)">
+                <g transform="matrix(0.495876,-7.21769e-18,-1.176e-17,1,376.801,-3.39508e-15)">
+                    <g transform="matrix(9.97676e-17,-1,2.01663,7.57878e-17,195.981,864.16)">
+                        <path d="M215.572,315.12L194.738,273.454L173.905,315.12L215.572,315.12Z" style="fill:url(#_Linear1);stroke:url(#_Linear2);stroke-width:20.83px;"/>
+                        <path d="M194.738,88.388L194.738,273.454" style="fill:none;stroke:url(#_Linear3);stroke-width:20.83px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                    </g>
+                </g>
+                <g transform="matrix(6.12323e-17,-1,1,6.12323e-17,473.983,864.16)">
+                    <path d="M311.278,300.598L311.798,254.016L274.221,281.55L311.278,300.598Z" style="stroke:black;stroke-width:20.83px;"/>
+                    <path d="M194.738,180.921C194.738,279.216 370.223,140.355 311.798,254.016" style="fill:none;stroke:black;stroke-width:20.83px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+            </g>
+            <g transform="matrix(6.12323e-17,1,-1,6.12323e-17,1192.32,-203.064)">
+                <g transform="matrix(0.519456,-2.24139e-17,-2.53121e-17,1,674.322,-1.62985e-14)">
+                    <path d="M374.228,669.422L747.437,669.422" style="fill:none;stroke:url(#_Linear4);stroke-width:26.15px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-64.5192,-53.2455)">
+                    <circle cx="933.236" cy="722.667" r="64.519"/>
+                </g>
+            </g>
+            <g transform="matrix(-0.359981,8.32748e-17,-8.32748e-17,-1,909.022,1273.69)">
+                <g transform="matrix(-2.77793,-2.31331e-16,2.31331e-16,-1,1613.59,1002.78)">
+                    <path d="M270.131,354.187L311.798,333.353L270.131,312.52L270.131,354.187Z" style="fill:url(#_Linear5);stroke:url(#_Linear6);stroke-width:20.83px;"/>
+                    <path d="M446.146,333.353L311.798,333.353" style="fill:none;stroke:url(#_Linear7);stroke-width:20.83px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+            </g>
+            <g transform="matrix(1,-5.72119e-18,5.72119e-18,1,-136.601,292.274)">
+                <text x="675.882px" y="461.385px" style="font-family:'ArialMT', 'Arial';font-size:33.333px;">Claustrum</text>
+                <g transform="matrix(33.3333,0,0,33.3333,785.208,495.809)">
+                </g>
+                <text x="675.882px" y="495.809px" style="font-family:'ArialMT', 'Arial';font-size:33.333px;">Neuron</text>
+            </g>
+            <g transform="matrix(-0.793498,9.71755e-17,-1.48545e-16,-1.21296,968.545,1865.69)">
+                <path d="M646.484,1228.71C682.715,1229.46 703.102,1196.69 693.415,1129.69C682.725,1055.75 705.52,1031.3 717.792,1029.12C705.52,1026.93 682.725,1002.49 693.415,928.546C703.102,861.549 682.715,828.77 646.484,829.527" style="fill:none;stroke:black;stroke-width:9.75px;stroke-linecap:butt;stroke-miterlimit:1;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-247.798,-108.702)">
+                <g transform="matrix(33.3333,0,0,33.3333,863.024,461.385)">
+                </g>
+                <text x="675.882px" y="461.385px" style="font-family:'ArialMT', 'Arial';font-size:33.333px;">Frontal Input</text>
+            </g>
+            <g transform="matrix(1,0,0,1,-275.948,444.488)">
+                <g transform="matrix(33.3333,0,0,33.3333,920.445,461.385)">
+                </g>
+                <text x="675.882px" y="461.385px" style="font-family:'ArialMT', 'Arial';font-size:33.333px;">Output to Cortex</text>
+            </g>
+            <g transform="matrix(1,0,0,1,-45.389,193.34)">
+                <text x="675.882px" y="461.385px" style="font-family:'ArialMT', 'Arial';font-size:33.333px;">5-HT<tspan x="749.352px 758.613px " y="461.385px 461.385px "> i</tspan>nput</text>
+                <g transform="matrix(33.3333,0,0,33.3333,824.026,495.809)">
+                </g>
+                <text x="675.882px" y="495.809px" style="font-family:'ArialMT', 'Arial';font-size:33.333px;">from DRN</text>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.1332e-14,2e-06,-185.065,1.22465e-22,194.738,88.3883)"><stop offset="0" style="stop-color:rgb(197,126,126);stop-opacity:0"/><stop offset="0.24" style="stop-color:rgb(6,4,4);stop-opacity:1"/><stop offset="1" style="stop-color:black;stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.1332e-14,2e-06,-185.065,1.22465e-22,194.738,88.3883)"><stop offset="0" style="stop-color:rgb(197,126,126);stop-opacity:0"/><stop offset="0.24" style="stop-color:rgb(6,4,4);stop-opacity:1"/><stop offset="1" style="stop-color:black;stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear3" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.1332e-14,2e-06,-185.065,1.22465e-22,194.738,88.3883)"><stop offset="0" style="stop-color:rgb(197,126,126);stop-opacity:0"/><stop offset="0.24" style="stop-color:rgb(6,4,4);stop-opacity:1"/><stop offset="1" style="stop-color:black;stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear4" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(373.209,0,0,2e-06,374.228,669.422)"><stop offset="0" style="stop-color:black;stop-opacity:1"/><stop offset="0.73" style="stop-color:black;stop-opacity:1"/><stop offset="1" style="stop-color:black;stop-opacity:0"/></linearGradient>
+        <linearGradient id="_Linear5" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-134.348,2.44929e-22,-1.64529e-14,-2e-06,446.146,333.353)"><stop offset="0" style="stop-color:rgb(197,126,126);stop-opacity:0"/><stop offset="0.24" style="stop-color:rgb(6,4,217);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(0,0,217);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear6" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-134.348,2.44929e-22,-1.64529e-14,-2e-06,446.146,333.353)"><stop offset="0" style="stop-color:rgb(197,126,126);stop-opacity:0"/><stop offset="0.24" style="stop-color:rgb(6,4,217);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(0,0,217);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear7" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-134.348,2.44929e-22,-1.64529e-14,-2e-06,446.146,333.353)"><stop offset="0" style="stop-color:rgb(197,126,126);stop-opacity:0"/><stop offset="0.24" style="stop-color:rgb(6,4,217);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(0,0,217);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
