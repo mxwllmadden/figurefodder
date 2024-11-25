@@ -10,7 +10,7 @@ A selection of available iconography is shown below. Explore the repo for additi
 
 ## Featured
 
-<img src="./icons/misc/Psychedelic Mouse.svg" height="200" />
+<img src="./icons/misc/Psychedelic Mouse.svg" height="300" />
 
 ## Animals
 
