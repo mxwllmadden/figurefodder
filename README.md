@@ -6,6 +6,8 @@ Files are provided in svg format.
 
 # Gallery
 
+A selection of available iconography is shown below. Explore the Repo for additional icons and diagrams.
+
 ## Featured
 
 <img src="./icons/misc/Psychedelic Mouse.svg" height="200" />
@@ -24,3 +26,11 @@ Files are provided in svg format.
 
 <img src="./icons/brains/human_networks/Cingulo-Opercular Network.svg" height="100" /> <img src="./icons/brains/human_networks/Default Mode Network.svg" height="100" /> <img src="./icons/brains/human_networks/Dorsal Attention Network.svg" height="100" />
 <img src="./icons/brains/human_networks/Frontoparietal Network.svg" height="100" /> <img src="./icons/brains/human_networks/Salience Network.svg" height="100" /> <img src="./icons/brains/human_networks/Ventral Attention Network.svg" height="100" />
+
+## Diagrams
+
+<img src="./diagrams/flourescent_claustrum_recording_red.svg" height="150" /> <img src="./diagrams/CRACM.svg" height="150" /> <img src="./diagrams/whole_cell_patch_clamp.svg" height="150" />  <img src="./diagrams/mouse_head_with_brain.svg" height="150" />
+
+<img src="./diagrams/networks/network_naive.svg" height="300" /> <img src="./diagrams/networks/network_learned.svg" height="300" />
+
+<img src="./diagrams/networks/network_disease.svg" height="150" /> <img src="./diagrams/networks/network_reset.svg" height="150" /> <img src="./diagrams/networks/network_relearning.svg" height="150" />
