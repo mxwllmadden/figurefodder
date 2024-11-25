@@ -22,7 +22,7 @@ A selection of available iconography is shown below. Explore the repo for additi
 
 <img src="./icons/brains/human/human_top.svg" height="100" /> <img src="./icons/brains/mouse/mouse_side.svg" height="100" /> <img src="./icons/brains/mouse/mouse_top.svg" height="100" /> <img src="./icons/brains/mouse/mouse_slice.svg" height="100" />
 
-## Cortical Networks
+## Cortical Network Representations
 
 <img src="./icons/brains/human_networks/Cingulo-Opercular Network.svg" height="100" /> <img src="./icons/brains/human_networks/Default Mode Network.svg" height="100" /> <img src="./icons/brains/human_networks/Dorsal Attention Network.svg" height="100" />
 <img src="./icons/brains/human_networks/Frontoparietal Network.svg" height="100" /> <img src="./icons/brains/human_networks/Salience Network.svg" height="100" /> <img src="./icons/brains/human_networks/Ventral Attention Network.svg" height="100" />
