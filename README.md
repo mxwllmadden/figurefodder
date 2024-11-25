@@ -6,7 +6,7 @@ Files are provided in svg format.
 
 # Gallery
 
-A selection of available iconography is shown below. Explore the Repo for additional icons and diagrams.
+A selection of available iconography is shown below. Explore the repo for additional icons and diagrams.
 
 ## Featured
 
