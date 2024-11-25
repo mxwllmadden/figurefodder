@@ -8,8 +8,6 @@ Files are provided in svg format.
 
 A selection of available iconography is shown below. Explore the repo for additional icons and diagrams.
 
-## Featured
-
 <img src="./icons/misc/Psychedelic Mouse.svg" height="300" />
 
 ## Animals
