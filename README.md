@@ -8,7 +8,7 @@ Files are provided in svg format and can therefore be scaled to any size without
 
 A selection of available iconography is shown below. Explore the repo for additional icons and diagrams.
 
-<img src="./icons/misc/Psychedelic Mouse.svg" height="300" /> <img src="./icons/misc/eye.svg" height="300" />
+<img src="./icons/misc/Psychedelic Mouse.svg" height="300" /> <img src="./icons/misc/eye.svg" height="150" />
 
 ## Animals
 
