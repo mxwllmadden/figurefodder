@@ -19,6 +19,10 @@ A selection of available iconography is shown below. Explore the repo for additi
 
 <img src="./icons/brains/human/human_top.svg" height="100" /> <img src="./icons/brains/mouse/mouse_side.svg" height="100" /> <img src="./icons/brains/mouse/mouse_top.svg" height="100" /> <img src="./icons/brains/mouse/mouse_slice.svg" height="100" />
 
+## Neuroscience Equipment
+
+<img src="./icons/syringes/hamilton.svg" height="150" /> <img src="./icons/misc/Implantable_fiber_optic.svg" height="150" /> 
+
 ## Cortical Network Representations
 
 <img src="./icons/brains/human_networks/Cingulo-Opercular Network.svg" height="100" /> <img src="./icons/brains/human_networks/Default Mode Network.svg" height="100" /> <img src="./icons/brains/human_networks/Dorsal Attention Network.svg" height="100" />
